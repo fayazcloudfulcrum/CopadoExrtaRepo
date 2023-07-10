@@ -685,9 +685,9 @@ This value will prefill the order by field on related Promotion record creation 
         <customTabListAdditionalFields>copado__Manage_Branches__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>CREATED_DATE</customTabListAdditionalFields>
         <customTabListAdditionalFields>LAST_UPDATE</customTabListAdditionalFields>
-        <excludedStandardButtons>OpenListInQuip</excludedStandardButtons>
         <excludedStandardButtons>Accept</excludedStandardButtons>
         <excludedStandardButtons>PrintableListView</excludedStandardButtons>
+        <excludedStandardButtons>OpenListInQuip</excludedStandardButtons>
         <excludedStandardButtons>IsotopeSubscription</excludedStandardButtons>
         <listViewButtons>copado__Pipeline_Wizard</listViewButtons>
         <lookupDialogsAdditionalFields>copado__Active__c</lookupDialogsAdditionalFields>
