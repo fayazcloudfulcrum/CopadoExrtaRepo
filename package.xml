@@ -9,10 +9,6 @@
         <name>Layout</name>
     </types>
     <types>
-        <members>copado__Compliance_Rule_Group__c.copado__Duplicate_Name</members>
-        <name>MatchingRule</name>
-    </types>
-    <types>
         <members>Standard</members>
         <name>Profile</name>
     </types>
