@@ -8821,6 +8821,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Student_object__c.student_email__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Task.ActivityDate</field>
         <readable>true</readable>
@@ -15037,6 +15042,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Solution-Formato de soluciones</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Student_object__c-Student object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-Formato de tareas</layout>

@@ -8841,6 +8841,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Student_object__c.student_email__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Task.ActivityDate</field>
         <readable>true</readable>
@@ -15059,6 +15064,9 @@
         <layout>Solution-Formato de soluciones</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Student_object__c-Student object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Task-Formato de tareas</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -15629,6 +15637,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>StreamingChannel</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Student_object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
