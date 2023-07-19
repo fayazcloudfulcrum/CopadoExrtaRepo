@@ -154,6 +154,17 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Mobile__c</fullName>
+        <externalId>false</externalId>
+        <label>Mobile</label>
+        <precision>10</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>student_email__c</fullName>
         <externalId>false</externalId>
         <label>student email</label>
