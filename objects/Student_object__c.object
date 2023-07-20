@@ -179,6 +179,11 @@
                     <default>false</default>
                     <label>Mech</label>
                 </value>
+                <value>
+                    <fullName>CSE</fullName>
+                    <default>false</default>
+                    <label>CSE</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
