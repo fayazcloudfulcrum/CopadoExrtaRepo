@@ -154,6 +154,35 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Branch__c</fullName>
+        <externalId>false</externalId>
+        <label>Branch</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>ECE</fullName>
+                    <default>false</default>
+                    <label>ECE</label>
+                </value>
+                <value>
+                    <fullName>EEE</fullName>
+                    <default>false</default>
+                    <label>EEE</label>
+                </value>
+                <value>
+                    <fullName>Mech</fullName>
+                    <default>false</default>
+                    <label>Mech</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>student_email__c</fullName>
         <externalId>false</externalId>
         <label>student email</label>
