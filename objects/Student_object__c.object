@@ -173,6 +173,11 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Student objects</pluralLabel>
+    <recordTypes>
+        <fullName>test_record_type</fullName>
+        <active>true</active>
+        <label>test record type</label>
+    </recordTypes>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
