@@ -473,6 +473,17 @@
         <label>Birthdays This Month</label>
     </listViews>
     <listViews>
+        <fullName>Contact_New_list_view</fullName>
+        <columns>FULL_NAME</columns>
+        <columns>ACCOUNT.NAME</columns>
+        <columns>CONTACT.PHONE1</columns>
+        <columns>CONTACT.EMAIL</columns>
+        <columns>CONTACT.TITLE</columns>
+        <columns>CORE.USERS.ALIAS</columns>
+        <filterScope>Mine</filterScope>
+        <label>Contact New list view</label>
+    </listViews>
+    <listViews>
         <fullName>NewThisWeek</fullName>
         <columns>FULL_NAME</columns>
         <columns>ACCOUNT.NAME</columns>
